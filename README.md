@@ -1,5 +1,6 @@
 # AndroidStudio-in-RickAndMortyApi
 
+Rick and Morty API kullanılarak ilk 20 karakterin sayfaya taşınma işlemi gerçekleştirilmiştir
 
 ![android_1](https://user-images.githubusercontent.com/64737567/230363926-0054d27f-eb93-40b2-b902-00ca8510a90a.png)
 
